@@ -18,7 +18,7 @@ This project implements a complete DevOps pipeline for a Reddit Clone applicatio
 
 ## 🏗️ Architecture
 
-<img width="1440" alt="Project-Structure" src="https://github.com/user-attachments/assets/50d66724-776d-44dc-8cdf-69f4bfdf1e97" />
+<img width="1440" alt="ReditStruc" src="https://github.com/user-attachments/assets/3f3f51ae-4b3d-43fe-96b0-57c4f0451205" />
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -83,7 +83,6 @@ This project implements a complete DevOps pipeline for a Reddit Clone applicatio
 - **Storage**: 40GB EBS volume
 - **Security Groups**: Custom SG with ports 22, 80, 443, 8080, 9000, 3000
 
-![AWS EKS Created](https://github.com/Anshuman-git-code/Redit-Clone-Deployment/blob/main/screenshots/AWS-EKS-Created.png?raw=true)
 
 **Terraform Configuration:**
 ```hcl
