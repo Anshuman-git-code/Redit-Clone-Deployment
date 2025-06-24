@@ -107,7 +107,6 @@ Jenkins is automatically installed and configured on the EC2 instance with:
 - Docker integration
 - Pipeline capabilities
 
-![Jenkins Setup](https://github.com/Anshuman-git-code/Redit-Clone-Deployment/blob/main/screenshots/Screenshot%202025-06-23%20at%206.20.18%20AM%20(2).png?raw=true)
 
 ### 3. SonarQube Integration
 
@@ -186,7 +185,9 @@ Deployed monitoring solution using Helm:
 - ArgoCD automatically deploys to EKS
 - Continuous monitoring and feedback
 
-![Automated Deployment Changes](https://github.com/Anshuman-git-code/Redit-Clone-Deployment/blob/main/screenshots/Automated-Deployment-ChangesAtRepo-AutomateBuild-AtJenkinsJob.png?raw=true)
+![Automated-Deployment-ChangesAtRepo-AutomateBuild-AtJenkinsJob](https://github.com/user-attachments/assets/5571995c-457e-4d92-bd13-4b211b6106f7)
+
+![Screenshot 2025-06-23 at 11 19 28 AM](https://github.com/user-attachments/assets/6159ccf9-dbc1-46ef-8a21-e856e01be32c)
 
 
 ## 🔧 Installation and Setup
