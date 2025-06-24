@@ -18,6 +18,8 @@ This project implements a complete DevOps pipeline for a Reddit Clone applicatio
 
 ## 🏗️ Architecture
 
+<img width="1440" alt="Project-Structure" src="https://github.com/user-attachments/assets/50d66724-776d-44dc-8cdf-69f4bfdf1e97" />
+
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   GitHub Repo   │───▶│   Jenkins CI    │───▶│  Docker Hub     │
