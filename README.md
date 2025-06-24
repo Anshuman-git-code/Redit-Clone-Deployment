@@ -186,7 +186,7 @@ Deployed monitoring solution using Helm:
 - Continuous monitoring and feedback
 
 ![Automated Deployment Changes](https://github.com/Anshuman-git-code/Redit-Clone-Deployment/blob/main/screenshots/Automated-Deployment-ChangesAtRepo-AutomateBuild-AtJenkinsJob.png?raw=true)
-![Redit Deploy Success Through ArgoCD](https://github.com/Anshuman-git-code/Redit-Clone-Deployment/blob/main/screenshots/Redit-Deploy-Success-Through-ArgoCD.png?raw=true)
+
 
 ## 🔧 Installation and Setup
 
